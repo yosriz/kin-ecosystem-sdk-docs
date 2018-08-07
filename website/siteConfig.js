@@ -24,7 +24,7 @@ const siteConfig = {
   title: 'Kin Developer Program' /* title for your website */,
 tagline: '',
   url: 'https://kinecosystem.github.io/kin-ecosystem-sdk-docs/' /* your website url */,
-  baseUrl: '/kin-ecosystem-sdk-docs/' /* base url for your project */,
+  baseUrl: '/' /* base url for your project */,
 
   // Used for publishing and more
   projectName: 'kin-ecosystem-sdk-docs',
